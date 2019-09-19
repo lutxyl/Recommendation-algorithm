@@ -6,7 +6,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 
 |Model |Published |Code|Keywords|Person liable*|
 |:-----|:---------|:-----|:-------|:-------|
-|(DNN) Deep Neural Networks for YouTube Recommendations| [ACM](https://arxiv.org/pdf/1905.02538.pdf)|[DNN](http://sci-hub.tw/10.1145/2959100.2959190)| recommender system; deep learning; scalability  | Boshi Wei|
+|(DNN) Deep Neural Networks for YouTube Recommendations| [ACM](https://arxiv.org/pdf/1905.02538.pdf)|[DNN]()| recommender system; deep learning; scalability  | Boshi Wei|
 |(GAMENet)  Graph Augmented MEmory Networks for Recommending Medication Combination| [arxiv](http://arxiv.org/pdf/1809.01852v1.pdf)|[CSAI](https://github.com/sjy1203/GAMENet)| recommender ; GAMENet  | Boshi Wei|
 
 ## Link of datasets
