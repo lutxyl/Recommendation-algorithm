@@ -6,7 +6,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 
 |Model |Published |Code|Keywords|Person liable*|
 |:-----|:---------|:-----|:-------|:-------|
-|(TENet) Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution| [arXiv](https://arxiv.org/pdf/1905.02538.pdf)|[Pytorch](https://github.com/guochengqian/TENet)| a Joint Solution for Demosaicking, Denoising and Super-Resolution | Boshi Wei|
+|(DNN) Deep Neural Networks for YouTube Recommendations| [ACM](https://arxiv.org/pdf/1905.02538.pdf)|[DNN](http://sci-hub.tw/10.1145/2959100.2959190)| recommender system; deep learning; scalability  | Boshi Wei|
 
 ## Link of datasets
 *(please contact me if any of links offend you or any one disabled)*
