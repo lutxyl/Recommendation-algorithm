@@ -12,6 +12,11 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |(GNN)  Graph Convolutional Neural Networks for Web-Scale Recommender Systems | [KDD](http://sci-hub.tw/10.1145/2645710.2645775)|[GNN]()| Graph Convolutional Neural;recommende   | Boshi Wei|
 |(GCN) SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation| [AAAI](https://arxiv.org/pdf/1811.02815.pdf)|[GCN]()| Graph Convolutional Neural;recommender   | Boshi Wei|
 |(GCN) Session-based Social Recommendation via Dynamic Graph Attention Networks| [WSDM ](https://arxiv.org/pdf/1902.09362.pdf)|[GCN]()| Graph Convolutional Neural;recommender   | Boshi Wei|
+|(GAN)Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems| [WWW](http://sci-hub.tw/10.1145/3308558.3313442)|[GAN]()| Graph Convolutional Neural;recommender   | Boshi Wei|
+|(GNN)Graph Neural Networks for Social Recommendation| [WWW](https://arxiv.org/pdf/1902.07243.pdf)|[GNN]()| Graph Convolutional Neural;recommender   | Boshi Wei|
+|(GNN)Session-based Recommendation with Graph Neural Networks| [AAAI](https://arxiv.org/pdf/1811.00855.pdf)|[GNN]()| Graph Convolutional Neural;recommender   | Boshi Wei|
+|(GNN)Neural Graph Collaborative Filtering| [SIGIR](https://arxiv.org/pdf/1905.08108.pdf)|[GNN]()| Graph Convolutional Neural;recommender   | Boshi Wei|
+
 
 ## Link of datasets
 *(please contact me if any of links offend you or any one disabled)*
